@@ -19,10 +19,7 @@ Check out my coding journey on [LeetCode](https://leetcode.com/u/AkshithaMashett
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/AkshithaMashetti?theme=dark&font=Ubuntu&ext=heatmap)
 
-## 📌 Featured Projects
-- 🏗 **[Project 1](https://github.com/yourusername/project1)** – Short description of the project.
-- 📊 **[Project 2](https://github.com/yourusername/project2)** – Another interesting project.
-- 🌍 **[Project 3](https://github.com/yourusername/project3)** – Something cool you've built!
+
 
 ## 📬 Connect with Me
 - 📧 Email: [your email]
